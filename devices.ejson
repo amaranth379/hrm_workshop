@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "locationId": "1dceb7c9-affd-511d-afac-bf54266f2a1a",
+    "product": {
+      "deviceTypeId": "DeviceType-A",
+      "modelCode": "DEMO-MODEL-1",
+      "vendorId": "DEMO-VENDOR"
+    },
+    "versions": {
+      "firmwareVersion": "00000000.000000",
+      "softwareVersion": "00000000.000000"
+    },
+    "location": {
+      "countryCode": "AAA",
+      "regionCode": "DEMO-SEOUL"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "569489de-a3b8-5c18-ba01-7cb67d532779",
+    "locationId": "b6d6c44c-8872-5bb8-99d6-8f2ab7df2af0",
+    "product": {
+      "deviceTypeId": "DeviceType-A",
+      "modelCode": "DEMO-MODEL-2",
+      "vendorId": "DEMO-VENDOR"
+    },
+    "versions": {
+      "firmwareVersion": "00000000.000000",
+      "softwareVersion": "00000000.000000"
+    },
+    "location": {
+      "countryCode": "AAA",
+      "regionCode": "DEMO-BUSAN"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "a5c291fd-bf34-534e-a10e-ebd5684a6504",
+    "locationId": "e6e036ee-3345-5827-8f1a-c62169f1248c",
+    "product": {
+      "deviceTypeId": "DeviceType-A",
+      "modelCode": "DEMO-MODEL-3",
+      "vendorId": "DEMO-VENDOR"
+    },
+    "versions": {
+      "firmwareVersion": "00000000.000000",
+      "softwareVersion": "00000000.000000"
+    },
+    "location": {
+      "countryCode": "AAA",
+      "regionCode": "DEMO-DAEJEON"
+    },
+    "schemaVersion": 1
+  }
+]

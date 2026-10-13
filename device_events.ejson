@@ -1,0 +1,1388 @@
+[
+  {
+    "_id": "a4dcb3e7-5e69-5c4f-87bf-cc55d91d2f7d",
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "locationId": "1dceb7c9-affd-511d-afac-bf54266f2a1a",
+    "resource": {
+      "href": "/resourceA/vs/0",
+      "unitId": "0",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T08:03:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T08:03:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/0"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-1",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-SEOUL"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "6feebbf7-015d-588b-a359-e284474cff80",
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "locationId": "1dceb7c9-affd-511d-afac-bf54266f2a1a",
+    "resource": {
+      "href": "/resourceA/vs/0",
+      "unitId": "0",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T09:03:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T09:03:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/0"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-1",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-SEOUL"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "c7c13a04-bcbe-51bd-bc74-8f8e02fdf1eb",
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "locationId": "1dceb7c9-affd-511d-afac-bf54266f2a1a",
+    "resource": {
+      "href": "/resourceA/vs/0",
+      "unitId": "0",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T10:03:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T10:03:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/0"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-1",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-SEOUL"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "04819070-6d97-52f3-a935-8525481989e8",
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "locationId": "1dceb7c9-affd-511d-afac-bf54266f2a1a",
+    "resource": {
+      "href": "/resourceA/vs/1",
+      "unitId": "1",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T08:04:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T08:04:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/1"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-1",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-SEOUL"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "f6d259e3-6b9d-55b4-9db2-74c2d132c2ff",
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "locationId": "1dceb7c9-affd-511d-afac-bf54266f2a1a",
+    "resource": {
+      "href": "/resourceA/vs/1",
+      "unitId": "1",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T09:04:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T09:04:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/1"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-1",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-SEOUL"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "4e2ae2af-29c4-5d30-9418-21b829e5640d",
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "locationId": "1dceb7c9-affd-511d-afac-bf54266f2a1a",
+    "resource": {
+      "href": "/resourceA/vs/1",
+      "unitId": "1",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T10:04:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T10:04:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/1"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-1",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-SEOUL"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "8f7285f8-9147-5369-b7f3-cc91e456e94b",
+    "deviceId": "569489de-a3b8-5c18-ba01-7cb67d532779",
+    "locationId": "b6d6c44c-8872-5bb8-99d6-8f2ab7df2af0",
+    "resource": {
+      "href": "/resourceA/vs/0",
+      "unitId": "0",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T08:06:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T08:06:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/0"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-2",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-BUSAN"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "8f470def-18fd-5065-9138-5cca0eda16c1",
+    "deviceId": "569489de-a3b8-5c18-ba01-7cb67d532779",
+    "locationId": "b6d6c44c-8872-5bb8-99d6-8f2ab7df2af0",
+    "resource": {
+      "href": "/resourceA/vs/0",
+      "unitId": "0",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T09:06:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T09:06:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/0"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-2",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-BUSAN"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "55a19a89-2451-5252-8bfd-7584a3052432",
+    "deviceId": "569489de-a3b8-5c18-ba01-7cb67d532779",
+    "locationId": "b6d6c44c-8872-5bb8-99d6-8f2ab7df2af0",
+    "resource": {
+      "href": "/resourceA/vs/0",
+      "unitId": "0",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T10:06:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T10:06:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/0"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-2",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-BUSAN"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "6e329852-1c49-5435-a9df-5ced3fb74513",
+    "deviceId": "569489de-a3b8-5c18-ba01-7cb67d532779",
+    "locationId": "b6d6c44c-8872-5bb8-99d6-8f2ab7df2af0",
+    "resource": {
+      "href": "/resourceA/vs/1",
+      "unitId": "1",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T08:07:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T08:07:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/1"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-2",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-BUSAN"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "a5edea93-9b0a-5c6a-83ff-f762f592a6af",
+    "deviceId": "569489de-a3b8-5c18-ba01-7cb67d532779",
+    "locationId": "b6d6c44c-8872-5bb8-99d6-8f2ab7df2af0",
+    "resource": {
+      "href": "/resourceA/vs/1",
+      "unitId": "1",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T09:07:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T09:07:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/1"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-2",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-BUSAN"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "348b616b-3e76-5a21-b3fd-9ea0dd99319e",
+    "deviceId": "569489de-a3b8-5c18-ba01-7cb67d532779",
+    "locationId": "b6d6c44c-8872-5bb8-99d6-8f2ab7df2af0",
+    "resource": {
+      "href": "/resourceA/vs/1",
+      "unitId": "1",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T10:07:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T10:07:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/1"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-2",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-BUSAN"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "7a5229c9-6f4e-5766-9452-c6688ff2d9bb",
+    "deviceId": "a5c291fd-bf34-534e-a10e-ebd5684a6504",
+    "locationId": "e6e036ee-3345-5827-8f1a-c62169f1248c",
+    "resource": {
+      "href": "/resourceA/vs/0",
+      "unitId": "0",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T08:09:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T08:09:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/0"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-3",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-DAEJEON"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "03684563-509f-5769-a0db-67fdcfd0ec2a",
+    "deviceId": "a5c291fd-bf34-534e-a10e-ebd5684a6504",
+    "locationId": "e6e036ee-3345-5827-8f1a-c62169f1248c",
+    "resource": {
+      "href": "/resourceA/vs/0",
+      "unitId": "0",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T09:09:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T09:09:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/0"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-3",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-DAEJEON"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "cd033691-218c-56d9-b329-f489f0fdac11",
+    "deviceId": "a5c291fd-bf34-534e-a10e-ebd5684a6504",
+    "locationId": "e6e036ee-3345-5827-8f1a-c62169f1248c",
+    "resource": {
+      "href": "/resourceA/vs/0",
+      "unitId": "0",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T10:09:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T10:09:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/0"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-3",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-DAEJEON"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "71f31483-3aa6-516e-9561-5c27c6f3d335",
+    "deviceId": "a5c291fd-bf34-534e-a10e-ebd5684a6504",
+    "locationId": "e6e036ee-3345-5827-8f1a-c62169f1248c",
+    "resource": {
+      "href": "/resourceA/vs/1",
+      "unitId": "1",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T08:10:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T08:10:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/1"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-3",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-DAEJEON"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "7e3ef3e4-3713-5dd5-b293-9630f5524056",
+    "deviceId": "a5c291fd-bf34-534e-a10e-ebd5684a6504",
+    "locationId": "e6e036ee-3345-5827-8f1a-c62169f1248c",
+    "resource": {
+      "href": "/resourceA/vs/1",
+      "unitId": "1",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T09:10:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T09:10:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/1"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-3",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-DAEJEON"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": "3793d637-6134-5e05-bf37-3842e026e5fe",
+    "deviceId": "a5c291fd-bf34-534e-a10e-ebd5684a6504",
+    "locationId": "e6e036ee-3345-5827-8f1a-c62169f1248c",
+    "resource": {
+      "href": "/resourceA/vs/1",
+      "unitId": "1",
+      "component": "main"
+    },
+    "eventTime": {
+      "$date": "2026-10-12T10:10:00.000Z"
+    },
+    "receivedAt": {
+      "$date": "2026-10-12T10:10:00.300Z"
+    },
+    "notification": {
+      "source": "DEVICE",
+      "capability": "execute",
+      "capabilities": "[execute]",
+      "attribute": "data",
+      "linkText": "",
+      "descriptionText": "/resourceA/vs/1"
+    },
+    "context": {
+      "deviceTypeId": "DeviceType-A",
+      "countryCode": "AAA",
+      "productVersion": "1.0",
+      "osVersion": "OS-A",
+      "hardwareVersion": "",
+      "firmwareVersion": "00000000.000000",
+      "vendorId": "VENDOR-ID-00001",
+      "deviceJoinDate": "2024-01-01",
+      "deviceEasySetupDate": "2024-01-01",
+      "plantCode": "P000",
+      "modelCode": "DEMO-MODEL-3",
+      "projectName": "PROJECT-A",
+      "prdYear": "2020",
+      "prdMonth": "10",
+      "softwareVersion": "00000000.000000",
+      "newVersionAvailable": "0",
+      "deviceCategoryCode": "A0",
+      "regionCode": "DEMO-DAEJEON"
+    },
+    "payload": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "schemaVersion": 1
+  }
+]

@@ -1,0 +1,404 @@
+[
+  {
+    "_id": {
+      "$oid": "000000000000000000000001"
+    },
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "entity": "A",
+    "key": {
+      "unitId": "0"
+    },
+    "stateKey": "[\"A\",\"0\"]",
+    "state": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "lastEventId": "c7c13a04-bcbe-51bd-bc74-8f8e02fdf1eb",
+    "updatedAt": {
+      "$date": "2026-10-12T10:03:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000002"
+    },
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "entity": "A",
+    "key": {
+      "unitId": "1"
+    },
+    "stateKey": "[\"A\",\"1\"]",
+    "state": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "lastEventId": "4e2ae2af-29c4-5d30-9418-21b829e5640d",
+    "updatedAt": {
+      "$date": "2026-10-12T10:04:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000003"
+    },
+    "deviceId": "569489de-a3b8-5c18-ba01-7cb67d532779",
+    "entity": "A",
+    "key": {
+      "unitId": "0"
+    },
+    "stateKey": "[\"A\",\"0\"]",
+    "state": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "lastEventId": "55a19a89-2451-5252-8bfd-7584a3052432",
+    "updatedAt": {
+      "$date": "2026-10-12T10:06:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000004"
+    },
+    "deviceId": "569489de-a3b8-5c18-ba01-7cb67d532779",
+    "entity": "A",
+    "key": {
+      "unitId": "1"
+    },
+    "stateKey": "[\"A\",\"1\"]",
+    "state": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "lastEventId": "348b616b-3e76-5a21-b3fd-9ea0dd99319e",
+    "updatedAt": {
+      "$date": "2026-10-12T10:07:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000005"
+    },
+    "deviceId": "a5c291fd-bf34-534e-a10e-ebd5684a6504",
+    "entity": "A",
+    "key": {
+      "unitId": "0"
+    },
+    "stateKey": "[\"A\",\"0\"]",
+    "state": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "lastEventId": "cd033691-218c-56d9-b329-f489f0fdac11",
+    "updatedAt": {
+      "$date": "2026-10-12T10:09:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000006"
+    },
+    "deviceId": "a5c291fd-bf34-534e-a10e-ebd5684a6504",
+    "entity": "A",
+    "key": {
+      "unitId": "1"
+    },
+    "stateKey": "[\"A\",\"1\"]",
+    "state": {
+      "resourceTypes": [
+        "resourceType.A"
+      ],
+      "interfaces": [
+        "interface.a"
+      ],
+      "supportedModes": [
+        "SUPPORTED_MODE_01",
+        "SUPPORTED_MODE_02",
+        "SUPPORTED_MODE_03",
+        "SUPPORTED_MODE_04",
+        "SUPPORTED_MODE_05",
+        "SUPPORTED_MODE_06",
+        "SUPPORTED_MODE_07",
+        "SUPPORTED_MODE_08",
+        "SUPPORTED_MODE_09",
+        "SUPPORTED_MODE_10",
+        "SUPPORTED_MODE_11",
+        "SUPPORTED_MODE_12",
+        "SUPPORTED_MODE_13",
+        "SUPPORTED_MODE_14"
+      ],
+      "modes": [
+        "MODE_01",
+        "MODE_02",
+        "MODE_03",
+        "MODE_04",
+        "MODE_05",
+        "MODE_06"
+      ]
+    },
+    "lastEventId": "3793d637-6134-5e05-bf37-3842e026e5fe",
+    "updatedAt": {
+      "$date": "2026-10-12T10:10:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000007"
+    },
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "entity": "B",
+    "key": {
+      "unitId": "0",
+      "component": "main",
+      "filterName": "DEMO-FILTER-1"
+    },
+    "stateKey": "[\"B\",\"0\",\"main\",\"DEMO-FILTER-1\"]",
+    "state": {
+      "demoValue": "KEY_SHAPE_ONLY_NOT_CUSTOMER_PAYLOAD"
+    },
+    "updatedAt": {
+      "$date": "2026-10-12T08:00:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000008"
+    },
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "entity": "B",
+    "key": {
+      "unitId": "0",
+      "component": "main",
+      "filterName": "DEMO-FILTER-2"
+    },
+    "stateKey": "[\"B\",\"0\",\"main\",\"DEMO-FILTER-2\"]",
+    "state": {
+      "demoValue": "KEY_SHAPE_ONLY_NOT_CUSTOMER_PAYLOAD"
+    },
+    "updatedAt": {
+      "$date": "2026-10-12T08:00:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000009"
+    },
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "entity": "C",
+    "key": {
+      "subDevice": "DEMO-SUB-1"
+    },
+    "stateKey": "[\"C\",\"DEMO-SUB-1\"]",
+    "state": {
+      "demoValue": "KEY_SHAPE_ONLY_NOT_CUSTOMER_PAYLOAD"
+    },
+    "updatedAt": {
+      "$date": "2026-10-12T08:00:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "00000000000000000000000a"
+    },
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "entity": "D",
+    "key": {
+      "unitId": "0"
+    },
+    "stateKey": "[\"D\",\"0\"]",
+    "state": {
+      "demoValue": "KEY_SHAPE_ONLY_NOT_CUSTOMER_PAYLOAD"
+    },
+    "updatedAt": {
+      "$date": "2026-10-12T08:00:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "00000000000000000000000b"
+    },
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "entity": "E",
+    "key": {
+      "unitId": "0",
+      "id": "DEMO-INFO-1"
+    },
+    "stateKey": "[\"E\",\"0\",\"DEMO-INFO-1\"]",
+    "state": {
+      "demoValue": "KEY_SHAPE_ONLY_NOT_CUSTOMER_PAYLOAD"
+    },
+    "updatedAt": {
+      "$date": "2026-10-12T08:00:00.000Z"
+    },
+    "schemaVersion": 1
+  },
+  {
+    "_id": {
+      "$oid": "00000000000000000000000c"
+    },
+    "deviceId": "1ecce622-a408-5579-bbef-56d92499a46a",
+    "entity": "F",
+    "key": {
+      "unitId": "0",
+      "target": "DEMO-FW-1"
+    },
+    "stateKey": "[\"F\",\"0\",\"DEMO-FW-1\"]",
+    "state": {
+      "demoValue": "KEY_SHAPE_ONLY_NOT_CUSTOMER_PAYLOAD"
+    },
+    "updatedAt": {
+      "$date": "2026-10-12T08:00:00.000Z"
+    },
+    "schemaVersion": 1
+  }
+]
