@@ -1,5 +1,19 @@
 # hrm_workshop
 
+### 세션 일정
+- 환경 및 실습 안내 : Atlas 생성, Compass 설치, 데이터셋 및 실습 절차 확인 10:00 - 10:30 (30분)
+- Relational Migrator : Relational DB > Atlas로 data migration 10:30 - 11:00 (30분)
+- Lab 1: HRM 데이터 모델링 11:00 - 12:00 (60분)
+- 점심 12:00 - 13:00 (60분)
+- Lab 2: Aggregation과 인덱스 13:00 - 13:40 (40분)
+- Lab 3: 이벤트 품질 및 이상 감지 13:40 - 14:20 (40분)
+- 휴식 14:20 - 14:35 (15분)
+- Lab 4: Time Series Discovery 14:35 - 15:05 (30분)
+- Lab 5: Vector Search/RAG Discovery 15:05 - 15:40 (35분)
+- 결과 리뷰 및 PoC 일정 논의 15:40 - 16:00 (20분)
+
+
+
 ### Session-01 환경 및 실습 안내 - Atlas 생성, Compass 설치, 데이터셋 및 실습 절차 확인
 - Compass 설치: https://www.mongodb.com/docs/compass/
 
