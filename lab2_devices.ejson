@@ -1,0 +1,482 @@
+[
+  {
+    "_id": "LAB2-D01",
+    "locationId": "LAB2-L01",
+    "product": {
+      "modelCode": "LAB2-MODEL-1",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D02",
+    "locationId": "LAB2-L02",
+    "product": {
+      "modelCode": "LAB2-MODEL-2",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D03",
+    "locationId": "LAB2-L03",
+    "product": {
+      "modelCode": "LAB2-MODEL-3",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D04",
+    "locationId": "LAB2-L04",
+    "product": {
+      "modelCode": "LAB2-MODEL-1",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D05",
+    "locationId": "LAB2-L05",
+    "product": {
+      "modelCode": "LAB2-MODEL-2",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D06",
+    "locationId": "LAB2-L06",
+    "product": {
+      "modelCode": "LAB2-MODEL-3",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D07",
+    "locationId": "LAB2-L07",
+    "product": {
+      "modelCode": "LAB2-MODEL-1",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D08",
+    "locationId": "LAB2-L08",
+    "product": {
+      "modelCode": "LAB2-MODEL-2",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D09",
+    "locationId": "LAB2-L09",
+    "product": {
+      "modelCode": "LAB2-MODEL-3",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D10",
+    "locationId": "LAB2-L10",
+    "product": {
+      "modelCode": "LAB2-MODEL-1",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D11",
+    "locationId": "LAB2-L11",
+    "product": {
+      "modelCode": "LAB2-MODEL-2",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D12",
+    "locationId": "LAB2-L12",
+    "product": {
+      "modelCode": "LAB2-MODEL-3",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-SEOUL",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D13",
+    "locationId": "LAB2-L13",
+    "product": {
+      "modelCode": "LAB2-MODEL-1",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D14",
+    "locationId": "LAB2-L14",
+    "product": {
+      "modelCode": "LAB2-MODEL-2",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D15",
+    "locationId": "LAB2-L15",
+    "product": {
+      "modelCode": "LAB2-MODEL-3",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D16",
+    "locationId": "LAB2-L16",
+    "product": {
+      "modelCode": "LAB2-MODEL-1",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D17",
+    "locationId": "LAB2-L17",
+    "product": {
+      "modelCode": "LAB2-MODEL-2",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D18",
+    "locationId": "LAB2-L18",
+    "product": {
+      "modelCode": "LAB2-MODEL-3",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D19",
+    "locationId": "LAB2-L19",
+    "product": {
+      "modelCode": "LAB2-MODEL-1",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D20",
+    "locationId": "LAB2-L20",
+    "product": {
+      "modelCode": "LAB2-MODEL-2",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D21",
+    "locationId": "LAB2-L21",
+    "product": {
+      "modelCode": "LAB2-MODEL-3",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D22",
+    "locationId": "LAB2-L22",
+    "product": {
+      "modelCode": "LAB2-MODEL-1",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D23",
+    "locationId": "LAB2-L23",
+    "product": {
+      "modelCode": "LAB2-MODEL-2",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  },
+  {
+    "_id": "LAB2-D24",
+    "locationId": "LAB2-L24",
+    "product": {
+      "modelCode": "LAB2-MODEL-3",
+      "deviceTypeId": "DEMO-REFRIGERATOR"
+    },
+    "location": {
+      "countryCode": "KR",
+      "regionCode": "DEMO-BUSAN",
+      "timeZone": "Asia/Seoul"
+    },
+    "schemaVersion": 1,
+    "lab2": {
+      "dataset": "HRM_LAB2_DOOR_V1",
+      "fullyObserved": true,
+      "observedDays": 7,
+      "note": "Synthetic cohort assumption, not inferred from missing events."
+    }
+  }
+]
