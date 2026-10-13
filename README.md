@@ -14,10 +14,10 @@
 
 
 
-### Session-01 환경 및 실습 안내 - Atlas 생성, Compass 설치, 데이터셋 및 실습 절차 확인
+### [Session-01] 환경 및 실습 안내 - Atlas 생성, Compass 설치, 데이터셋 및 실습 절차 확인
 - Compass 설치: https://www.mongodb.com/docs/compass/
 
-### Session-02 Relational Migrator - Relational Migrator를 이용한 데이터 마이그레이션
+### [Session-02] Relational Migrator - Relational Migrator를 이용한 데이터 마이그레이션
 - Relational Migrator 설치: https://www.mongodb.com/docs/relational-migrator/getting-started/
 - MySQL 연결해야 하는 경우, 드라이버 파일을 다운로드하여 Relational Migrator 디렉토리에 복사.
   - MySQL: latest 9.1.x version, Platform Independent Version (https://dev.mysql.com/downloads/connector/j/)
@@ -28,6 +28,16 @@
   - username: demo
   - password: migrator
 
-### Session-03 Lab1 HRM 데이터 모델링
+### [Session-03] Lab1 HRM 데이터 모델링
+- 실습용 데이터 Import
+  - Compass에서 파일 가져오기
+    - lab1 디렉토리에서 ejson 파일 다운로드
+    - compass에서 database > collection에서 Add data -> Import JSON or CSV file 클릭 후 다운로드한 파일 선택
+
+### [Session-04] Lab2 Aggregation과 인덱스
+- 실습용 데이터 Import
+  - Compass에서 파일 가져오기
+    - lab2 디렉토리에서 ejson 파일 다운로드
+    - compass에서 database > collection에서 Add data -> Import JSON or CSV file 클릭 후 다운로드한 파일 선택
 
   
